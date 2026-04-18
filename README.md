@@ -1,4 +1,4 @@
-#FloodGuard-AI-Portfolio
+# -- FloodGuard-AI-Portfolio
 ## Flooduard AI: What is it?
 The name reflects its core mission—acting as a guard against flood-related challenges by using the power of AI. "Flood" represents the natural disaster the platform addresses, while "Guard" emphasizes its role in safeguarding lives and property. The "AI" showcases the innovative generative AI technology driving the platform’s features. 
 ## Project Summary
